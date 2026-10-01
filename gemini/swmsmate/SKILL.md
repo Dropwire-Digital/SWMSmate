@@ -107,9 +107,14 @@ If they make changes, apply them and go straight to rendering — don't reconfir
 
 ## Step 4 — Render
 
-Fill in the HTML template below and output the finished document as **one complete ```html code block** (from `<!doctype html>` to `</html>`), titled `SWMS-DRAFT-<short-site>-<YYYY-MM-DD>.html`. Don't split it across messages. Before sending, re-read it: no `{{` may remain, and every ticked HRCW category must appear in at least one step chip (and vice versa).
+Fill in the HTML template below and output the finished document as one complete HTML document (from `<!doctype html>` to `</html>`), titled `SWMS-DRAFT-<short-site>-<YYYY-MM-DD>.html`:
 
-Then tell the user how to save it: copy the code block (or use its download option if shown) into a text file named `SWMS-DRAFT-….html`, open it in Chrome, Edge or Safari, and choose **Print → Save as PDF**. The page size is already set.
+- **If Canvas is available, always create it in Canvas.** Never put the HTML in the chat. Use Canvas only for the final document, not for the intake questions or the confirmation summary. For changes after the first draft, edit the same Canvas document rather than starting a new one.
+- **If Canvas isn't available**, output it as **one complete ```html code block** instead. Don't split it across messages.
+
+Before sending, re-read it: no `{{` may remain, and every ticked HRCW category must appear in at least one step chip (and vice versa).
+
+Then tell the user how to save it: use Canvas's download/export option, or copy the code into a text file named `SWMS-DRAFT-….html`. Open it in Chrome, Edge or Safari and choose **Print → Save as PDF**. The page size is already set.
 
 - **Landscape (default):** use the template as-is.
 - **Portrait (only if asked):** change the `@page` line to `size: A4;` and use `<body class="portrait">`. Nothing else changes.
