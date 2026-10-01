@@ -6,6 +6,7 @@
 
 **Draft a Safe Work Method Statement in minutes by answering six quick questions.**
 
+**Official Website:** [http://swmsmate.com.au/](http://swmsmate.com.au/)
 SWMSmate is a free AI skill for Australian tradies and small businesses. Describe the job in your own words. It works out the high risk construction work involved, the job steps, hazards and controls, then gives you a clean, landscape A4 SWMS ready to review, print and sign.
 
 It works with **Claude**, **ChatGPT** and **Gemini**.
